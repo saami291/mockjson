@@ -2,21 +2,32 @@
   "si": [
     {
       "id": 1,
-      "title": "hello"
+      "title": {
+        "type":"String",
+        "value":"vneuron"
+      }
     },
     {
       "id": 2,
-      "title": "hi"
+      "title": {
+        "type":"String",
+        "value":"test"
+    }
     },
     {
       "id": 3,
-      "title": "what"
-    }
+      "title": {
+        "type":"String",
+        "value":"Esprit"
+    }}
   ],
   "reis": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 1, 
+      "Nom": {
+        "type":"String",
+        "value":"vneuron"
+    }
     },
     {
       "id": 2,
