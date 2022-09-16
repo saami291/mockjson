@@ -27,18 +27,6 @@
       "Nom": {
         "type":"String",
         "value":"Entreprise"
-    }, 
-      "email": {
-        "type":"String",
-        "value":"test@mail.com"
-    },
-      "Adresse": {
-        "type":"String",
-        "value":"vneuron"
-    },
-      "Date": {
-        "type":"date",
-        "value":"16/09/2022"
     }
     }
     
