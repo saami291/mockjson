@@ -5,6 +5,10 @@
       "title": {
         "type":"String",
         "value":"vneuron"
+      },
+      "date": {
+        "type":"String",
+        "value":"22/01/2022"
       }
     },
     {
@@ -12,14 +16,23 @@
       "title": {
         "type":"String",
         "value":"test"
-    }
+    },
+      "adress": {
+        "type":"String",
+        "value":"charguia"
+      }
     },
     {
       "id": 3,
       "title": {
         "type":"String",
         "value":"Esprit"
-    }}
+    },
+      "adress": {
+        "type":"String",
+        "value":"charguia"
+      }
+    }
   ],
   "reis": [
     {
