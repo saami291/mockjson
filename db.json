@@ -4,22 +4,54 @@
       "id": 1,
       "title": {
         "type":"String",
-        "value":"vneuron"
+        "value":"client1"
       },
       "date": {
-        "type":"String",
+        "type":"Date",
         "value":"22/01/2022"
+      },
+      "emailClient": {
+        "type":"String",
+        "value":"client1@gmail.com"
+      },
+      "address": {
+        "type":"String",
+        "value":"tunis,tunisie"
+      },
+      "numtel": {
+        "type":"int",
+        "value":"25415633"
+      },
+      "info": {
+        "type":"string",
+        "value":"testInfo"
       }
     },
     {
       "id": 2,
       "title": {
         "type":"String",
-        "value":"test"
-    },
-      "adress": {
+        "value":"client1"
+      },
+      "date": {
+        "type":"Date",
+        "value":"22/01/2022"
+      },
+      "emailInfo": {
         "type":"String",
-        "value":"charguia"
+        "value":"info@gmail.com"
+      },
+      "info3": {
+        "type":"String",
+        "value":"infoTest"
+      },
+      "info2": {
+        "type":"int",
+        "value":"25415633"
+      },
+      "info": {
+        "type":"string",
+        "value":"testInfo"
       }
     },
     {
@@ -45,5 +77,14 @@
       
     }
     
+  ],
+  "Test":[
+    { "id":1,
+      "response":"success"
+    },
+    
+    { "id":2,
+      "response":"failed"
+    }
   ]
 }
